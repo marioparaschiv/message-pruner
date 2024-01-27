@@ -1,0 +1,27 @@
+{
+	"debug": false,
+	"prefix": "$",
+	"delay": 150,
+	"searchDelay": 10000,
+	"token": "MjYzNjg5OTIwMjEwNTM0NDAw.Girt4y.zGDF1TZLFXRs89R5kNgGAOI5pwGtQHPggAvn_A",
+	"feedback": "alt",
+	"webhook": "https://canary.discord.com/api/webhooks/1193183091112554638/8iVlcjFaw9eFDwQNuPJK0Ux1x_5hCsi-ZT8mqz1Y1I11TCm_C00jR7mdmdbSkAJXKYZD",
+	"altToken": "ODk3MDU5Mjk2MzUxNzY4NTk4.G2jGYd.MVcTpwfcx6VBv-m0aihwE7WkqxbVvSojEn1Y64",
+	"altChannelId": "945241517772124166",
+	"properties": {
+		"os": "Windows",
+		"browser": "Chrome",
+		"device": "",
+		"system_locale": "en-US",
+		"browser_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+		"browser_version": "120.0.0.0",
+		"os_version": "10",
+		"referrer": "",
+		"referring_domain": "",
+		"referrer_current": "",
+		"referring_domain_current": "",
+		"release_channel": "stable",
+		"client_build_number": 256231,
+		"client_event_source": null
+	}
+}
